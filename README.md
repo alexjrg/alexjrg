@@ -3,12 +3,6 @@
 
 - 🔭 I’m currently working on **something cool!**
 
-- 💬 Ask me about **swift, obj and solidity**
-
-- 📫 You can reach me on twitter **@alexjrg_**
-
-- ⚡ Fun fact **I'm a terrible guitarist**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alexjrg_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexjrg_" height="30" width="40" /></a>
